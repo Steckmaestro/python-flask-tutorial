@@ -4,7 +4,7 @@ This is a tutorial app to learn the basics of Flask, SQLAlchemy and FLASK-JWT.
 
 Deployed on Heroku.
 
-#Setup instructions
+# Setup instructions
 
 1) Clone repo into local folder
 2) Create logfolder
